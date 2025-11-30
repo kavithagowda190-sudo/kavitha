@@ -46,7 +46,7 @@ Make sure you have Python and Git installed.
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/Altoks-AI/AI-Resume-Analyzer.git
+https://github.com/kavithagowda190-sudo/kavitha
 ```
 ```
 cd FolderName
@@ -86,6 +86,7 @@ http://localhost:8501
 ---
 ✅ Now you’re all set!
 Upload a resume, paste a job description, and let the AI analyze your resume for job-fit and provide suggestions. 
+
 
 
 
